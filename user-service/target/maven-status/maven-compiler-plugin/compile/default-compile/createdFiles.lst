@@ -1,0 +1,7 @@
+com/kaangurler/userservice/UserServiceApplication.class
+com/kaangurler/userservice/entity/User$UserBuilder.class
+com/kaangurler/userservice/controller/UserController.class
+com/kaangurler/userservice/entity/User.class
+com/kaangurler/userservice/service/UserService.class
+com/kaangurler/userservice/service/impl/UserServiceImpl.class
+com/kaangurler/userservice/repository/UserRepository.class
